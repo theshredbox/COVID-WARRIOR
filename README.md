@@ -20,6 +20,18 @@ In an attempt to aid this, we built a ML and Deep Learning based model to detect
 * **Run the command** `time python FACE_MASK_DETECTOR.py --display 1
 ` ***to run the project.*** (FOR FACE MASK DETECTION).
 
+![social distancing gif](https://user-images.githubusercontent.com/36481036/133897438-61c122ea-7697-427b-aad8-c38e1371f4c0.gif)
+
+![Screenshot (315)](https://user-images.githubusercontent.com/36481036/133897444-bf67f7af-54ad-4091-9e50-209dff2d2171.png)
+
+![Screenshot (316)](https://user-images.githubusercontent.com/36481036/133897448-9adf08d3-feb7-45c5-88ce-37e0b08956f6.png)
+
+## Contacts:
+* **Created by: [Aryan Ahuja](https://github.com/theshredbox)**
+* **Email:[asafebruary@gmail.com](https://asafebruary@gmail.com)**
+* **LinkedIn: [Aryan Ahuja](https://www.linkedin.com/in/aryan-ahuja-013443190/)**
+
+
 
 
 
