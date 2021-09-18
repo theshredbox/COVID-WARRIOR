@@ -1,6 +1,6 @@
 # COVID-WARRIOR
 The project aims at developing a face mask and social distancing detector.
-As the corona virus continues to impact communities across the globe, it has become quite a necessity to reinforce the guidlelines laid down by the WHO with high precision.
+As the corona virus continues to impact communities across the globe, it has become quite a necessity to reinforce the guidelines laid down by the WHO with high precision.
 
 In an attempt to aid this, we built a ML and Deep Learning based model to detect face masks and social distancing among public.
 
